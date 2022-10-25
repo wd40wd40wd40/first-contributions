@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Sneha Kumari](https://github.com/Codewithsneha0)
+- [Levon Gyul](https://github.com/wd40wd40wd40)
 - [Rajat](https://github.com/rajatkumar2205)
 - [Mustafa Bhm] (https://github.com/mustafa-bhm)
 - [Iman Crooks] (https://github.com/iqtheengineer)
